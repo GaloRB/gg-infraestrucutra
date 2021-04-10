@@ -461,6 +461,12 @@ ul {
     padding-top: 2rem;
 }
 
+.diseño h3 {
+    font-size: 2.5rem;
+    margin: 2rem 6rem 2rem 2rem;
+    padding-top: 2rem;
+}
+
 .diseño h2::after {
     content: '';
     display: block;
